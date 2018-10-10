@@ -12,3 +12,9 @@ p {
 img {
   width:100%;
 }
+.new {
+  font-size: 100px;
+  font-weight: bold;
+  font-style: italic;
+  font-synthesis: style;
+}
